@@ -1,0 +1,16 @@
+Folder PATH listing
+Volume serial number is 5B2E-E0D1
+C:.
+|   asgi.py
+|   settings.py
+|   tree.doc
+|   urls.py
+|   wsgi.py
+|   __init__.py
+|   
+\---__pycache__
+        settings.cpython-37.pyc
+        urls.cpython-37.pyc
+        wsgi.cpython-37.pyc
+        __init__.cpython-37.pyc
+        
